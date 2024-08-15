@@ -55,3 +55,4 @@ int check_collision(Particle* p1, Particle* p2) {
     }
     return 0;
 }
+
