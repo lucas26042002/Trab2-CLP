@@ -29,4 +29,4 @@ Caso não seja possivel a compilação e execução do código pelo comando make
 após execute a interface de python (python3 particles_app.py).
 
 ## Documentação 
-A documentação completa do projeto pode ser encontrada em docs/documentacao.pdf.
+A documentação completa do projeto pode ser encontrada em documentacao.pdf.
